@@ -1,15 +1,6 @@
-
+//https://kata-log.rocks/banking-kata
 import { Account } from "./account.js";
 
-/*
-const test = [
-    { name: "Jane", id: '1234', pastime: 'Archery' },
-    { name: "John", id: '1235', pastime: 'Knitting' },
-    { name: "Jess", id: '1236', pastime: 'Fishing' }
-];
-  
-table(test)
-*/
 const newAccount = new Account();
 
 newAccount.deposit(10);
