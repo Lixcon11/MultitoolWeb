@@ -1,4 +1,5 @@
 //https://kata-log.rocks/banking-kata
+
 import { Account } from "./account.js";
 
 const newAccount = new Account();
